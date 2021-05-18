@@ -25,7 +25,22 @@ This project requires **Python 3.0+** and uses the following libraries for diffe
 On the terminal window, navigate to the project directory and run the following
 
 pip3 install nltk
+
+pip3 install numpy
+
+pip3 install matplotlib
+
+pip3 install sklearn
+
+pip3 PyPDF2
+
+pip3 install pandas
+
+python3 -m nltk.downloader stopwords
+
 python3 jobRecommendationSystem.py
+
+
 
 ## Data
 Data of the job descriptions is used from scraped data stored at :
